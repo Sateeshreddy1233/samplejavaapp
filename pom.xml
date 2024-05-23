@@ -13,7 +13,7 @@
     <properties>
         <sonar.projectKey>com.wakaleo.gameoflife:gameoflife</sonar.projectKey>
         <sonar.host.url>http://10.10.65.18:9000</sonar.host.url>
-        <sonar.login>your_sonar_token</sonar.login>
+        <sonar.login>sqa_c26217b9e19f52e84bc4238f63bb84f558e23c64</sonar.login>
         <sonar.language>java</sonar.language>
         <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
