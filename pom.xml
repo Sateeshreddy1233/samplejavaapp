@@ -8,9 +8,13 @@
     <version>2.0</version>
     <name>Vaadin Sampleapp example</name>
     <properties>
-        <sonar.host.url>http://10.10.65.18:9000/</sonar.host.url>
-        <sonar.login>squ_0c2b4f63a26bdb057ca553992af186423cfa4e3c</sonar.login>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <failOnMissingWebXml>false</failOnMissingWebXml>
+        <vaadin.version>8.0.0.alpha2</vaadin.version>
+        <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
+	<jacoco.version>0.8.6</jacoco.version>
     </properties>
+
     <repositories>
         <repository>
             <id>vaadin-prereleases</id>
