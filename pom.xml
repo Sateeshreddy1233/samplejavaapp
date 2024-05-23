@@ -102,19 +102,19 @@
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-server</artifactId>
-            <version><!-- Choose your desired version --></version>
+            <version>8.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-servlet</artifactId>
-            <version><!-- Choose your desired version --></version>
+            <version>8.0.0</version>
         </dependency>
         
         <!-- Apache Commons BeanUtils -->
         <dependency>
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
-            <version><!-- Choose your desired version --></version>
+            <version>1.9.4</version>
         </dependency>
     </dependencies>
 
