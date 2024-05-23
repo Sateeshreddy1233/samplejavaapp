@@ -8,8 +8,6 @@
     <version>2.0</version>
     <name>Vaadin Sampleapp example</name>
     <properties>
-        <java.version>17</java.version>
-        <modelmapper.version>3.2.0</modelmapper.version>
         <sonar.host.url>http://10.10.65.18:9000/</sonar.host.url>
         <sonar.login>squ_0c2b4f63a26bdb057ca553992af186423cfa4e3c</sonar.login>
     </properties>
