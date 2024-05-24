@@ -14,7 +14,7 @@
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
         <jacoco.version>0.8.6</jacoco.version>
         <sonar.host.url>http://10.10.65.18</sonar.host.url>
-        <sonar.login>sqa_c26217b9e19f52e84bc4238f63bb84f558e23c64</sonar.login>
+        <sonar.login>sqa_c26217b9e19f52e84bc4238f63bb84f558e23c64</sonar.login
     </properties>
 
     <repositories>
